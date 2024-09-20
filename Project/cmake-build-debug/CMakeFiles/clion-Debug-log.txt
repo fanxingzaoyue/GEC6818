@@ -1,0 +1,1 @@
+"D:\CLION\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "MinGW Makefiles" -S "D:\嵌入式实习粤嵌\第二组 徐国翔，张星键，刘云志\源代码\Project" -B "D:\嵌入式实习粤嵌\第二组 徐国翔，张星键，刘云志\源代码\Project\cmake-build-debug"

@@ -1,0 +1,10 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/CLION/CLion 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeDetermineSystem.cmake:205 (message)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      The system is: Windows - 10.0.22000 - AMD64
