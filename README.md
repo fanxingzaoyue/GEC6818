@@ -138,17 +138,17 @@ xml格式文本解析
 
 主页面
 
-![image-20240920120038232](C:\Users\86166\AppData\Roaming\Typora\typora-user-images\image-20240920120038232.png)
+![image-20240920120038232](https://i-blog.csdnimg.cn/direct/85e0658f254e4a2f803b084b7c7ea021.png)
 
 视频功能测试
 
-![image-20240920120111456](C:\Users\86166\AppData\Roaming\Typora\typora-user-images\image-20240920120111456.png)
+![image-20240920120111456](https://i-blog.csdnimg.cn/direct/ad2beed790c14dc08030fe87aeec79db.png)
 
 展示相册功能
 
-![image-20240920120130371](C:\Users\86166\AppData\Roaming\Typora\typora-user-images\image-20240920120130371.png)
+![image-20240920120130371](https://i-blog.csdnimg.cn/direct/a01b4648a6cc46a18544ff91c160238f.png)
 
 展示音乐功能
 
-![image-20240920120145216](C:\Users\86166\AppData\Roaming\Typora\typora-user-images\image-20240920120145216.png)
+![image-20240920120145216](https://i-blog.csdnimg.cn/direct/674d737cef8a467aa6d6d8956d3929d5.png)
 
